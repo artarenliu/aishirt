@@ -134,11 +134,12 @@ const Customizer = () => {
                     handleClick={() => setActiveEditorTab(tab.name)}
                   />
                 ))}
-
+                
                 {generateTabContent()}
               </div>
             </div>
           </motion.div>
+          
 
           <motion.div
             className="absolute z-10 top-5 right-5"

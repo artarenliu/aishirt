@@ -17,6 +17,8 @@
     "react": "^18.2.0",
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.5",
+    "react-router-dom": "^6.11.0",
     "three": "^0.152.0",
     "valtio": "^1.10.4"
   },

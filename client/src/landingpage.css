@@ -1,0 +1,38 @@
+
+  
+  #typing {
+    line-height: 1.5;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .h-full {
+    height: 100%;
+  }
+  
+  .space-y-8 > *:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+  
+  .btn-primary {
+    border: 2px solid black;
+  }
+  
+  .btn-primary:hover {
+    border-color: white;
+  }
+  
